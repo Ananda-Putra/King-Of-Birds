@@ -1,7 +1,7 @@
 # King-Of-Birds
-DANI SUKA ARSEL
-prisma               : 7.8.0
-@prisma/client       : 7.8.0
-Operating System     : win32
-Architecture         : x64
-Node.js              : v24.11.1
+## Spesification
+- Version Prisma : 7.8.0
+- Version Node : 24.11.1
+- Version NPM : 11.6.2
+
+## Endpoint
