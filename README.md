@@ -1,2 +1,7 @@
 # King-Of-Birds
-Nanda Jablay
+## Spesification
+- Version Prisma : 7.8.0
+- Version Node : 24.11.1
+- Version NPM : 11.6.2
+
+## Endpoint
